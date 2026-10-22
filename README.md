@@ -1,4 +1,4 @@
 # Creative Coding A1
 
 
-write instructions
+when choosing a class type please write pilates

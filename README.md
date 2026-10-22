@@ -1,4 +1,4 @@
 # Creative Coding A1
 
 
-when choosing a class type please write pilates
+Please write 'pilates' when first asked to choose a class style

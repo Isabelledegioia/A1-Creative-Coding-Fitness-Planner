@@ -1,4 +1,4 @@
-# Creative Coding A1
+# Creative Coding A2
 
 
 General Information
